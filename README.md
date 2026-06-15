@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# Sani Emmanuel (SEE)
+# Sani Emmanuel
 #### Front-end Developer
 
 > Bridging The Gap 🚀
