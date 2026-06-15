@@ -30,10 +30,11 @@ I’m a designer evolving into a Front-End Developer. My goal? To close the gap 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,ae,ps,&perline=8&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,figma,ps,&perline=8&theme=dark" alt="Skills" />
 </p>
 
 | Category                | Technologies                                             |
 |-------------------------|----------------------------------------------------------|
-| Frontend & UI           | JS, TS, React, Figma, JavaFX                    |
+| Frontend & UI           | JS, TS, React, Figma,                    |
 | Orchestrations    | Vercel              |
+
