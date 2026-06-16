@@ -99,7 +99,7 @@ I'm driven by solving problems, whether that means writing code for a responsive
 ## Current Focus & Interests
 
 ```javascript
-const emmanuel = {
+const Sani_Emmanuel = {
     currentStatus: "Computer Engineering Undergraduate @ Covenant University",
     focusAreas: ["Frontend Development", "Web Development"],
     learning: ["Advanced React Patterns", "Frontend Concepts"],
