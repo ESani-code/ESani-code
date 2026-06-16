@@ -85,9 +85,9 @@ I'm driven by solving problems, whether that means writing code for a responsive
 
 ## GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ESani-code&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</div>
+</div> -->
 
 <div align="center">
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ESani-code&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
